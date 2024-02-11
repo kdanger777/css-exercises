@@ -1,7 +1,7 @@
 .button1,
  .button2 {
     font-size: 28px;
-    font-family: Helvetica, Times New Roman, sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 .button1 {
@@ -11,6 +11,5 @@
 }
 
 .button2 {
-    color: #000000;
     background-color: rgb(249, 249, 4);
 }
